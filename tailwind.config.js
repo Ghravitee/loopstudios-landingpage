@@ -8,8 +8,8 @@ export default {
         "Very-Dark-Gray": "hsl(0, 0%, 41%)",
       },
       backgroundImage: {
-        'hero-background-desktop': "url('/src/images/desktop/image-hero.jpg')",
-        'hero-background-mobile': "url('/src/images/mobile/image-hero.jpg')",
+        'hero-background-desktop': "url('/image-hero-desktop.jpg')",
+        'hero-background-mobile': "url('/image-hero.jpg')",
         'earth-mobile': "url('/image-deep-earth.jpg')",
         'earth-desktop': "url('/image-deep-earth-desktop.jpg')",
         'arcade-mobile': "url('/image-night-arcade.jpg')",
